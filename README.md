@@ -14,7 +14,7 @@ I build AI agents that take boring real-world tasks off people's hands, and I bu
 
 | 1. Say what's broken | 2. Cally calls nearby shops | 3. Cheapest first |
 |:---:|:---:|:---:|
-| <img src="https://raw.githubusercontent.com/axm12345/cally/main/docs/cally-home.png" width="220" alt="Pick what's broken, or just say it"> | <img src="https://raw.githubusercontent.com/axm12345/cally/main/docs/cally-calling.jpg" width="220" alt="AI agent talking to five repair shops"> | <img src="https://raw.githubusercontent.com/axm12345/cally/main/docs/cally-results.jpg" width="220" alt="Prices compared, cheapest first"> |
+| <img src="images/cally-home.png" width="220" alt="Pick what's broken, or just say it"> | <img src="images/cally-calling.jpg" width="220" alt="AI agent talking to five repair shops"> | <img src="images/cally-results.jpg" width="220" alt="Prices compared, cheapest first"> |
 
 **Try it in 1 minute** (best on a phone): open the app → tap **Cracked screen** → tap **Type instead** and write *"iPhone 13, need it today"* → tap **Yes, find me a shop**.
 <sub>The public demo uses real shop listings, but the calls and prices are simulated, so no shop's phone actually rings.</sub>
@@ -23,14 +23,16 @@ I build AI agents that take boring real-world tasks off people's hands, and I bu
 
 ## 📂 All my projects
 
+🟢 Green button = a live app you can open and use right now.
+
 | Project | What it does | Open it |
 |---|---|---|
-| 🔧 **Cally** | AI voice agent that calls repair shops and compares their prices for you | **[▶ Live app](https://cally-repair.vercel.app)** · [Code](https://github.com/axm12345/cally) |
-| 💬 **LINE auto-reply bot** | Answers a small shop's customers on LINE in Thai or English, and hands off to a human when it's unsure | [Code + example chats](https://github.com/axm12345/line-demo-cafe-bot) |
-| 📄 **CV Generator** | Build a CV in your browser with live preview, 4 templates and PDF download | **[▶ Live app](https://axm12345.github.io/cv-generator/)** · [Code](https://github.com/axm12345/cv-generator) |
-| 📈 **SwingBot** | Python trading bot with a backtester and strict safety limits (practice account by default) | [Code](https://github.com/axm12345/swingbot) |
-| 🖥️ **PC Builder Tycoon** | Roblox game: buy parts, build PCs and complete client jobs | [Code](https://github.com/axm12345/pc-builder-tycoon) |
-| 🌱 **Learning projects** | My first Python programs and a playful interactive web page | [Code](https://github.com/axm12345/learning-projects) |
+| 🔧 **Cally** | AI voice agent that calls repair shops and compares their prices for you | [![Live app](https://img.shields.io/badge/▶%20Live%20app-2ea043?style=for-the-badge)](https://cally-repair.vercel.app) [![Code](https://img.shields.io/badge/Code-555555?style=for-the-badge&logo=github)](https://github.com/axm12345/cally) |
+| 💬 **LINE auto-reply bot** | Answers a small shop's customers on LINE in Thai or English, and hands off to a human when it's unsure | [![Code + example chat](https://img.shields.io/badge/Code%20%2B%20example%20chat-555555?style=for-the-badge&logo=github)](https://github.com/axm12345/line-demo-cafe-bot) |
+| 📄 **CV Generator** | Build a CV in your browser with live preview, 4 templates and PDF download | [![Live app](https://img.shields.io/badge/▶%20Live%20app-2ea043?style=for-the-badge)](https://axm12345.github.io/cv-generator/) [![Code](https://img.shields.io/badge/Code-555555?style=for-the-badge&logo=github)](https://github.com/axm12345/cv-generator) |
+| 📈 **SwingBot** | Python trading bot with a backtester, automated tests and strict safety limits (practice account by default) | [![Code](https://img.shields.io/badge/Code-555555?style=for-the-badge&logo=github)](https://github.com/axm12345/swingbot) |
+| 🖥️ **PC Builder Tycoon** | Roblox game (playable v1 prototype): buy parts, build PCs and complete client jobs | [![Code](https://img.shields.io/badge/Code-555555?style=for-the-badge&logo=github)](https://github.com/axm12345/pc-builder-tycoon) |
+| 🌱 **Learning projects** | My first Python programs and a playful interactive web page | [![Code](https://img.shields.io/badge/Code-555555?style=for-the-badge&logo=github)](https://github.com/axm12345/learning-projects) |
 
 ---
 
