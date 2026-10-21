@@ -21,7 +21,7 @@ I build AI agents that take boring real-world tasks off people's hands, and I bu
 
 ---
 
-## 💬 Also built: LINE auto-reply bot
+## 💬 LINE auto-reply bot: no customer left on read
 
 **A LINE chatbot for small shops. It answers customers instantly in Thai or English, and hands the chat to a real person when it isn't sure.**
 
