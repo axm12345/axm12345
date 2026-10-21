@@ -21,6 +21,36 @@ I build AI agents that take boring real-world tasks off people's hands, and I bu
 
 ---
 
+## 💬 Also built: LINE auto-reply bot
+
+**A LINE chatbot for small shops. It answers customers instantly in Thai or English, and hands the chat to a real person when it isn't sure.**
+
+<table>
+<tr>
+<td width="290" valign="top">
+<img src="images/line-bot-chat.png" width="270" alt="Customer asks opening hours, price in Thai and delivery; the bot answers each instantly">
+<br><sub>Real replies from the bot's code, shown in a recreated LINE chat.</sub>
+</td>
+<td valign="top">
+<b>How it decides what to say</b>
+<ol>
+<li><b>Keyword match</b> in English or Thai (<i>open, ราคา, deliver…</i>): instant, free, exact answer from the shop's info</li>
+<li><b>No match:</b> Claude writes a reply, using <i>only</i> the shop's real info</li>
+<li><b>Claude would have to guess:</b> it hands the chat to a human instead of making something up</li>
+</ol>
+<b>Why it matters:</b> small shops in Thailand get most customer questions on LINE, and when the owner is busy they go unanswered.
+<br><br>
+<b>Make it any shop's bot:</b> swap one data file (hours, menu, delivery zone).
+<br><br>
+<code>Python</code> <code>Flask</code> <code>LINE Messaging API</code> <code>Claude API</code>
+<br><br>
+<a href="https://github.com/axm12345/line-demo-cafe-bot"><img src="https://img.shields.io/badge/See%20the%20code-GitHub-24292f?style=for-the-badge&logo=github" alt="See the code"></a>
+</td>
+</tr>
+</table>
+
+---
+
 ## 📂 All my projects
 
 🟢 Green button = a live app you can open and use right now.
