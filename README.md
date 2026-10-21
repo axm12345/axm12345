@@ -67,4 +67,5 @@ I build AI agents that take boring real-world tasks off people's hands, and I bu
 ---
 
 **Tools I use:** TypeScript · Next.js · JavaScript · Python · Flask · Lua (Roblox) · Claude API · ElevenLabs voice agents · Vercel
+
 **Currently learning:** SQL, and building AI agents that work reliably without a person watching them
